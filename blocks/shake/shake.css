@@ -1,0 +1,12 @@
+@keyframes shake {
+  from {
+    transform: translateX(-5px);
+  }
+  to {
+    transform: translateX(5px);
+  }
+}
+
+.shake {
+  animation: shake 0.5s linear infinite alternate;
+}
