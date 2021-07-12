@@ -1,9 +1,3 @@
-@import url(__arrow/header__arrow.css);
-@import url(__circle/header__circle.css);
-@import url(__rect/header__rect.css);
-@import url(__text/header__text.css);
-@import url(__title/header__title.css);
-
 .header {
   display: flex;
   align-items: center;
